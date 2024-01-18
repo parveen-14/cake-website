@@ -1,0 +1,95 @@
+#promo {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/cake1.jpg);
+}
+
+.site-section {
+  text-align: center;
+  padding: 50px 60px 0;
+}
+
+.site-section h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+#welcome p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+#why .item i {
+  font-size: 42px;
+}
+
+#why .item i {
+  font-weight: normal;
+}
+
+.dark-section {
+  background-color: rgba(232,248,253,0.56);
+}
+
+.dark-section {
+}
+
+.test-section h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+.test-section {
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+#welcome p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.navbar {
+  color: var(--bs-navbar-active-color);
+  font-weight: normal;
+}
+
+#logo {
+  max-height: 42px;
+  margin-right: 10px;
+  margin-top: -3px;
+  display: inline-block;
+}
+
+.fas.fa-birthday-cake {
+  color: #ff45c7;
+}
+
+.fas.fa-heart {
+  color: #ff45c7;
+}
+
+.nav-item {
+  background-color: #ffed38;
+  border: var(--bs-border-color-translucent);
+}
+
+#cake {
+  margin-right: 7px;
+}
+
+#Pricing {
+  margin-right: 7px;
+}
+
+#Orders {
+  margin-right: 7px;
+}
+
+#logo {
+  background-image: url("../../assets/img/ice-logo.avif");
+}
+
