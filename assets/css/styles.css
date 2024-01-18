@@ -1,7 +1,9 @@
 #promo {
   text-align: center;
   padding: 40px;
-  background: url(../../assets/img/cake1.jpg);
+  background: url(../../assets/img/cake2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .site-section {
