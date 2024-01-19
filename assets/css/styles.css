@@ -1,7 +1,7 @@
 #promo {
   text-align: center;
   padding: 40px;
-  background: url(../../assets/img/cake2.jpg);
+  background: url(cake2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -93,5 +93,12 @@
 
 #logo {
   background-image: url("../../assets/img/ice-logo.avif");
+}
+
+.btn {
+  background-color: #4d79e9;
+}
+
+.text-black {
 }
 
